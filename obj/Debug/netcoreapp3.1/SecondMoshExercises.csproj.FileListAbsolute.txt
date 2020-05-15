@@ -1,0 +1,13 @@
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises.deps.json
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises.runtimeconfig.json
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises.runtimeconfig.dev.json
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises.dll
+/home/chris/Projects/SecondMoshExercises/bin/Debug/netcoreapp3.1/SecondMoshExercises.pdb
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.csprojAssemblyReference.cache
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.csproj.CoreCompileInputs.cache
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.AssemblyInfoInputs.cache
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.AssemblyInfo.cs
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.dll
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.pdb
+/home/chris/Projects/SecondMoshExercises/obj/Debug/netcoreapp3.1/SecondMoshExercises.genruntimeconfig.cache
